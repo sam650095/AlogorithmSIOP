@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sam00\\Documents\\programmer\\AlogorithmSIOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF13B9F-422A-49F9-98BE-A0324D327B9C}|AlogorithmSIOP\\AlogorithmSIOP.csproj|c:\\users\\sam00\\documents\\programmer\\alogorithmsiop\\alogorithmsiop\\sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF13B9F-422A-49F9-98BE-A0324D327B9C}|AlogorithmSIOP\\AlogorithmSIOP.csproj|solutionrelative:alogorithmsiop\\sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SA.cs",
+              "DocumentMoniker": "C:\\Users\\sam00\\Documents\\programmer\\AlogorithmSIOP\\AlogorithmSIOP\\SA.cs",
+              "RelativeDocumentMoniker": "AlogorithmSIOP\\SA.cs",
+              "ToolTip": "C:\\Users\\sam00\\Documents\\programmer\\AlogorithmSIOP\\AlogorithmSIOP\\SA.cs",
+              "RelativeToolTip": "AlogorithmSIOP\\SA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:18:00.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
